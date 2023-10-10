@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <h3 align="left">Projects:</h3>
 
 **Supermarketshop https://supermarketshop.vercel.app/** E-commerce development using technologies such as Javascript, Redux, React, Node.js, Postgres, HTML, CSS and others.
+</hr>
 **Countries [https://github.com/cepa387/Pi-Food.git](https://github.com/ALoyoVasquez/cr-pi-countries-main)** - Se creo una SPA para trabajar con Países y Actividades de acuerdo al País, la información de los Países se obtuvo de una API, creada a través de un archivo db.json, de esta Api se pasó a una DB en Postgres. 
 De allí se creo un servidor, y se crearon sus respectivas rutas además de Handlers y Controllers para realizar todas las peticiones y comunicarnos con la DB, de manera de obtener todos los datos como también actividades, que también pueden ser creadas.
 **Rick and Morty [https://github.com/ALoyoVasquez/rick_and_morty](https://github.com/ALoyoVasquez/rick_and_morty)** - Integrative Project, To learn about the management of APIs and the operation and development of new technologies.
