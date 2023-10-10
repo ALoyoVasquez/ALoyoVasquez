@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [COCI-Peniel](https://www.cocipeniel.org.ve/index.html) in [Fundamental](http://www.cocipeniel.org.ve/escolaridad) with [Moodle](https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg)
 
+- 🌱 I’m currently learning NextJs
+  
 - 👯 I was part of the project [SuperMarket](https://vimeo.com/871260635)
 
 - 📝 I am a volunteer in YouVersion Product Support. [www.youversion.com](www.youversion.com)
