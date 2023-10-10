@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </hr>
 **Countries [https://github.com/cepa387/Pi-Food.git](https://github.com/ALoyoVasquez/cr-pi-countries-main)** - Se creo una SPA para trabajar con Países y Actividades de acuerdo al País, la información de los Países se obtuvo de una API, creada a través de un archivo db.json, de esta Api se pasó a una DB en Postgres. 
 De allí se creo un servidor, y se crearon sus respectivas rutas además de Handlers y Controllers para realizar todas las peticiones y comunicarnos con la DB, de manera de obtener todos los datos como también actividades, que también pueden ser creadas.
+</hr>
 **Rick and Morty [https://github.com/ALoyoVasquez/rick_and_morty](https://github.com/ALoyoVasquez/rick_and_morty)** - Integrative Project, To learn about the management of APIs and the operation and development of new technologies.
 
 <h3 align="left">Languages and Tools:</h3>
