@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ana M Loyo V</h1>
 <h3 align="center">A passionate Full Stack Developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Fundamental](http://www.cocipeniel.org.ve/escolaridad) with [Moodle](https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg)
+- 🔭 I’m currently working on [COCI-Peniel](https://www.cocipeniel.org.ve/index.html) in [Fundamental](http://www.cocipeniel.org.ve/escolaridad) with [Moodle](https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg)
 
 - 👯 I was part of the project [SuperMarket](https://vimeo.com/871260635)
 
